@@ -1,1 +1,1 @@
-# JATE
+# Text Editor Starter Code
